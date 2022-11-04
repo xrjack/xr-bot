@@ -1,17 +1,18 @@
+
 ## Thanks for Everything 
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/fe0c46a730ac0e507dd57.jpg" width="170" height="170"/>
+  <img border-radius: 15px src="IMG-20221104-WA0031.jpg" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="Badboy" src="https://img.shields.io/badge/BADBMODER-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="xr-bot" src="https://img.shields.io/badge/xrjack-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/BADBMODER"><img title="Author" src="https://img.shields.io/badge/Author-BADBMODER/Badboy?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/xrjack"><img title="Author" src="https://img.shields.io/badge/Author-xrjack/xr-bot?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/BADBMODER">BADBMODER</a> to make it public
+Project created by <a href="https://github.com/xrjack">xrjack</a> to make it public
     <br>
        | © |
         Reserved |
@@ -21,18 +22,18 @@ Project created by <a href="https://github.com/BADBMODER">BADBMODER</a> to make 
 ----
 
   <p align="center">
-  <a href="https://github.com/BADBMODER/Badboy ">
-    <img src="https://img.shields.io/github/repo-size/BADBMODER/Badboy?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/xrjack/xr-bot ">
+    <img src="https://img.shields.io/github/repo-size/xrjack/xr-bot?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/BADBMODER/followers"><img title="Followers" src="https://img.shields.io/github/followers/BADBMODER?color=red&style=flat-circle"></a>
-<a href="https://github.com/BADBMODER/Badboy/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/BADBMODER/Badboy?color=red&style=flat-square"></a>
-<a href="https://github.com/BADBMODER/Badboy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BADBMODER/Badboy?color=red&style=flat-square"></a>
-<a href="https://github.com/BADBMODER/Badboy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BADBMODER/Badboy?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/xrjack/followers"><img title="Followers" src="https://img.shields.io/github/followers/xrjack?color=red&style=flat-circle"></a>
+<a href="https://github.com/xrjack/xr-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/xrjack/xr-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/xrjack/xr-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/xrjack/xr-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/xrjack/xr-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/xrjack/xr-bot?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 ```
   
-Badboy - Badboy Userbot is Open Source software open to development. 
+xr-bot - xr-bot Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -54,7 +55,7 @@ the user is responsible.
   ### Simple Method
  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BADBMODER/Badboy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xrjack/xr-bot)
      </div>
 <br>
 <br >
@@ -85,9 +86,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [[![BADBMODER](https://github.com/BADBMODER.png?size=100)](https://github.com/BADBMODER) 
+  [[![xrjack](https://github.com/xrjack.png?size=100)](https://github.com/xrjack) 
 
-[BADBMODER](https://github.com/BADBMODER)
+[xrjack](https://github.com/xrjack)
 
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
