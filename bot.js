@@ -1,3 +1,4 @@
+
 /* Copyright (C) 2020 Yusuf Usta.
 RECODDED BY AFNANPPLK
 Plk  
@@ -134,7 +135,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Pinky bot working perfectly 👻')
+            chalk.green.bold('xr-bot working perfectly 👻')
         );
     });
     
